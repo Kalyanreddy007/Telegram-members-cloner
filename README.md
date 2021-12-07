@@ -18,7 +18,7 @@ Using this tool you can easily add so many members from any group to your group.
 
 $ `pkg install git python -y`
 
-$ `git clone https://github.com/Kalyanreddy007/Telegram-members-cloner 
+$ `git clone https://github.com/Kalyanreddy007/Telegram-members-cloner`
 
 $ `cd TelegramScraper`
 
